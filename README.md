@@ -1,4 +1,3 @@
-# GagikYepremyan-bonusproject
 """
 Simple terminal countdown timer.
 
